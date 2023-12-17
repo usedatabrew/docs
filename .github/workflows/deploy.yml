@@ -6,9 +6,6 @@ on:
     push:
         branches: ["main"]
 
-# Specify to run a workflow manually from the Actions tab on GitHub
-    workflow_dispatch:
-
 env:
     # Name of module and id separated by a slash
     INSTANCE: Writerside/hi
