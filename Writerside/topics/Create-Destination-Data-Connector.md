@@ -8,7 +8,7 @@ They are basically the same, except you don't have to define a data you will str
 Open a cloud DataBrew dashboard [Here](https://app.databrew.tech/connectors)
 At the beginning it will have no connectors create but, we can create a new one by pressing `New Connector` button
 
-This will open a connector creation interface and, you will see all the supported connector types we can start with.
+This will open a connector creation interface, and you will see all the supported connector types we can start with.
 
 Here you have to select `Target` at the top to list all the supported Target Data Connectors. 
 

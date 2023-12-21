@@ -1,12 +1,8 @@
 # Overview
 
 DataBrew is a cloud solution that enables developers to create event-driven architecture in days instead of weeks.
-Utilizing power of Golang and sophisticated software - we deliver the most cost-efficient and performance-oriented services
-So you can build your data pipeline without having a hole in your pocket 😊
-
-## Core concept
-
-TODO::
+Utilizing the power of Golang and sophisticated software - we deliver the most cost-efficient and performance-oriented services
+So you can build your data pipeline without having a hole in your pocket. 😊
 
 ## Glossary
 

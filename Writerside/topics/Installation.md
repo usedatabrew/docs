@@ -15,6 +15,7 @@ docker pull usedatabrew/blink:latest
 To install Blink with HomeBrew you have to run a single command in your terminal
 
 ```Bash
+brew tap usedatabrew/blink
 brew install usedatabrew/blink
 ```
 
