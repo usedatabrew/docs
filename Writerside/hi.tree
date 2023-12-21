@@ -4,9 +4,9 @@
 
 <instance-profile id="hi"
                  name="DataBrew Docs"
-                 start-page="Default-topic.md">
+                 start-page="Welcome.md">
 
-    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Welcome.md"/>
     <toc-element topic="Security-in-DataBrew.md"/>
     <toc-element topic="Overview.md">
     </toc-element>

@@ -4,9 +4,9 @@ Now, when we have learned about the configuration, only one last step left - sta
 
 ## Start Blink
 
-In order to start blink you can simply execute to init the Blink instance. 
-> By the default Blink will try to find `blink.yaml` in the current working directory, but you may want to have your config stored 
-> having different name. You can specify path to the config file by setting `-c ${fileName}` flag
+To start Blink, you can simply execute to init the Blink instance. 
+> By default, Blink will try to find `blink.yaml` in the current working directory, but you may want to have your config stored 
+> having different name. You can specify a path to the config file by setting `-c ${fileName}` flag
 
 ```Bash
 blink start
