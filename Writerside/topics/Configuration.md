@@ -39,7 +39,7 @@ service:
 source:
   driver: websocket
   config:
-    url: wss://databrew-ws-gateway.fly.dev
+    url: ws://databrew-ws-gateway.fly.dev/ws
 
 processors:
   - driver: sql

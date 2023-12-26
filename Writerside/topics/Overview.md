@@ -4,6 +4,12 @@ DataBrew is a cloud solution that enables developers to create event-driven arch
 Utilizing the power of Golang and sophisticated software - we deliver the most cost-efficient and performance-oriented services
 So you can build your data pipeline without having a hole in your pocket. 😊
 
+## DataBrews Data Pipeline architecture
+![overview.png](overview.png)
+
+DataBrew carefully moves your data while applying the transformations needed and providing you metrics 
+that help you understand your pipeline performance
+
 ## Glossary
 
 A definition list or a glossary:
@@ -14,9 +20,9 @@ can support either consuming the data or producing it. Some of them can support 
 from PostgreSQL and store it in on fly.
 
 Processors
-: These are one of the main building blocks of the data pipelines. Since your data is treated as a stream - you are allowed
+: These are one of the main building blocks of the data pipelines. Since your data is treated as a stream, you are allowed
 to interact with it on fly. Processors are applied for each record in the data stream independently and allow you to modify 
-the data package, drop it from the stream, filter, check with AI or even send it to third-party system.
+the data package, drop it from the stream, filter, check with AI or even send it to a third-party system.
 
 Pipelines
 : Pipelines in DataBrew's terminology are combinations of the Streaming Connectors and Processors. Your data stream may have a
