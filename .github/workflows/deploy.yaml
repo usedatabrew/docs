@@ -33,8 +33,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
-          name: artifact
-          path: artifacts/${{ env.ARTIFACT }}
+          name: docs
+          path: |
+            artifacts/${{ env.ARTIFACT }}
           retention-days: 7
 
   deploy:
