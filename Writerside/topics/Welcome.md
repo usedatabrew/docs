@@ -4,6 +4,8 @@ You can use it as a sandbox to play with Writerside features, and remove it from
 If you want to re-add it for your experiments, click + to create a new topic, choose Topic from Template, and select the 
 "Starter" template.-->
 
+![image.png](image.png)
+
 ## Get Started
 Learn how to get started with DataBrew for building efficient data pipelines withing a minutes.
 Below you will find a new core use-cases DataBrew can help you with
