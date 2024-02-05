@@ -119,4 +119,4 @@ In this section, we include essential tips, tricks, and important information re
 
 In this document, we covered the requirements, cloud setup, and important notes for setting up the PostgreSQL source connector with CDC mode using Logical Replication for the DataBrew project. By following the steps outlined, you can ensure real-time data synchronization and maintain an up-to-date data pipeline.
 
-For further assistance or queries, please contact (Support Contact Information).
+For further assistance or queries, please contact [support](mailto:support@databrew.tech).

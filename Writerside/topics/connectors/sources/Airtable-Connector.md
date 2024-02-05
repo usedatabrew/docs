@@ -91,4 +91,4 @@ In this section, we include essential tips, tricks, and important information re
 In this document, we covered the requirements, cloud setup, and important notes for the AirTable source connector. 
 By following the steps outlined, you can seamlessly integrate your AirTable data into your ETL Cloud project.
 
-For further assistance or queries, please contact support.
+For further assistance or queries, please contact [support](mailto:support@databrew.tech)..

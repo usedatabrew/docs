@@ -84,4 +84,4 @@ In this section, we include essential tips, tricks, and important information re
 
 In this document, we covered the requirements, cloud setup, and important notes for setting up the MongoDB source connector for the DataBrew project. By following the steps outlined, you can effectively integrate your MongoDB data into your ETL pipeline.
 
-For further assistance or queries, please contact (Support Contact Information).
+For further assistance or queries, please contact [support](mailto:support@databrew.tech).

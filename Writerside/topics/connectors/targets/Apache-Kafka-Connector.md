@@ -85,4 +85,4 @@ In this document, we covered the requirements, cloud setup, and important notes 
 connector for the DataBrew project. By following the steps outlined, you can ensure that your processed data is
 efficiently and reliably streamed to your Kafka topics.
 
-For further assistance or queries, please contact (Support Contact Information).
+For further assistance or queries, please contact [support](mailto:support@databrew.tech).

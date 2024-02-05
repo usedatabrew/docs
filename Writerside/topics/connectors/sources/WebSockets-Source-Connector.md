@@ -89,4 +89,4 @@ In this section, we highlight crucial considerations and best practices for the 
 
 In this document, we covered the setup and important considerations for using the WebSocket source connector with the DataBrew project. By ensuring a consistent data format and understanding the limitations of single stream support, you can integrate real-time data into your pipeline effectively.
 
-For further assistance or queries, please contact (Support Contact Information).
+For further assistance or queries, please contact [support](mailto:support@databrew.tech).

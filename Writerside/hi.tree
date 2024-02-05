@@ -22,6 +22,7 @@
             <toc-element topic="Apache-Kafka-Connector.md"/>
             <toc-element topic="WebSockets-Connector.md"/>
             <toc-element topic="RabbitMQ-Connector.md"/>
+            <toc-element topic="Redis-Connector.md"/>
             <toc-element topic="Nats-Connector.md"/>
         </toc-element>
     </toc-element>
