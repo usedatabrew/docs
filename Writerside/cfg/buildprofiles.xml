@@ -1,0 +1,10 @@
+<buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <variables>
+        <algolia-id>O0OU1SG3OT</algolia-id>
+        <algolia-index>PROD_WriterSide_Index</algolia-index>
+        <algolia-api-key>f0214eded98b123b2ad58628dd574d87</algolia-api-key>
+        <web-root>https://docs.databrew.tech</web-root>
+    </variables>
+    <build-profile instance="instance_id"/>
+</buildprofiles>
