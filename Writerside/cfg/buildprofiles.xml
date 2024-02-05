@@ -5,6 +5,11 @@
         <algolia-index>PROD_WriterSide_Index</algolia-index>
         <algolia-api-key>f0214eded98b123b2ad58628dd574d87</algolia-api-key>
         <web-root>https://docs.databrew.tech</web-root>
+        <product-web-url>https://databrew.tech</product-web-url>
+        <download-title>Open DataBrew Cloud</download-title>
+        <download-page>https://app.databrew.tech</download-page>
+        <showDownloadButton>true</showDownloadButton>
+        <primary-color>#6d28d9</primary-color>
     </variables>
     <build-profile instance="instance_id"/>
 </buildprofiles>
