@@ -5,6 +5,9 @@
 This document provides a comprehensive guide on setting up the WebSocket source connector for the DataBrew project.
 The WebSocket connector enables real-time data streaming from your WebSocket server into the DataBrew data pipeline.
 
+### Target Connector
+If you are looking for a target connector for WebSockets you can see the doc here: [Target WebSocket Connector](WebSockets-Connector.md)
+
 > It's crucial to understand that the WebSocket connector supports only a single stream and requires a consistent data format throughout the message flow.
 
 ## Requirements

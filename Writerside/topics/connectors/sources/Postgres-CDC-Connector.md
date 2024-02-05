@@ -4,6 +4,9 @@
 
 This document provides a detailed guide on setting up the PostgreSQL source connector with CDC (Change Data Capture) mode using Logical Replication for the DataBrew project. This setup allows for real-time data synchronization and ensures that your data pipeline is always up-to-date with the latest changes in your PostgreSQL database.
 
+### Target Connector
+If you are looking for a target connector for PostgreSQL you can see the doc here: [Target PostgreSQL Connector](Postgres-Connector.md)
+
 ## Requirements
 
 Before setting up the PostgreSQL source connector, ensure you meet the following requirements:

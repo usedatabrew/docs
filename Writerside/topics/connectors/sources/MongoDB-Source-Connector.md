@@ -4,6 +4,9 @@
 
 This document provides a detailed guide on setting up the MongoDB source connector for the DataBrew project. The MongoDB connector allows for efficient data integration from MongoDB collections into your DataBrew data pipeline, ensuring a seamless data flow from your MongoDB databases.
 
+### Target Connector
+If you are looking for a target connector for MongoDB you can see the doc here: [Target MongoDB Connector](MongoDB-Connector.md)
+
 ## Requirements
 
 Before setting up the MongoDB source connector, ensure you meet the following requirements:
