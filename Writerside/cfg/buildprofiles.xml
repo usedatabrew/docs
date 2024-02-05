@@ -10,6 +10,17 @@
         <download-page>https://app.databrew.tech</download-page>
         <showDownloadButton>true</showDownloadButton>
         <primary-color>#6d28d9</primary-color>
+        <header-logo>header-logo.png</header-logo>
+        <custom-favicons>favicon.png</custom-favicons>
     </variables>
-    <build-profile instance="hi"/>
+    <build-profile instance="hi">
+        <variables>
+            <noindex-content>false</noindex-content>
+        </variables>
+    </build-profile>
+
+    <footer>
+        <copyright>DataBrew, Inc. 2023-2024</copyright>
+        <social type="twitter" href="https://twitter.com/usedatabrew"/>
+    </footer>
 </buildprofiles>
