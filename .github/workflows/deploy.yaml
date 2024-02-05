@@ -15,8 +15,14 @@ env:
   ARTIFACT: webHelpHI2-all.zip
   # Docker image version
   DOCKER_VERSION: 232.10275
-
+  ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
   ALGOLIA_ARTIFACT: algolia-indexes-HI2.zip
+
+  ALGOLIA_APP_NAME: O0OU1SG3OT
+  ALGOLIA_INDEX_NAME: PROD_WriterSide_Index
+
+  CONFIG_JSON_PRODUCT: HI2
+  CONFIG_JSON_VERSION: 1.0
 
 jobs:
   build:
