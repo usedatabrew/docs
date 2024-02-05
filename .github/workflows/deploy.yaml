@@ -16,7 +16,7 @@ env:
   # Docker image version
   DOCKER_VERSION: 232.10275
   ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
-  ALGOLIA_ARTIFACT: algolia-indexes.zip
+  ALGOLIA_ARTIFACT: algolia-indexes-HI.zip
 
   ALGOLIA_APP_NAME: O0OU1SG3OT
   ALGOLIA_INDEX_NAME: PROD_WriterSide_Index
@@ -93,7 +93,8 @@ jobs:
 
       - name: Unzip artifact
         run: |
-          unzip -O UTF-8 -qq __w/docs/docs/${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes
+          ls -lha
+          unzip -O UTF-8 -qq artifacts/${{ env.ALGOLIA_ARTIFACT }} -d algolia-indexes
           env "algolia-key=${{env.ALGOLIA_KEY}}" java -jar /opt/builder/help-publication-agent.jar \
           update-index \
           --application-name ${{env.ALGOLIA_APP_NAME}} \
